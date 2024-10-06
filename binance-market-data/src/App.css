@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+select {
+  margin: 10px;
+  padding: 5px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
